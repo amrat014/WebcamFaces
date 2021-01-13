@@ -1,4 +1,4 @@
-# Face Recognization usin python dlib, OpnCV and Numpy
+# Face Recognization using python dlib, OpnCV and Numpy
 
 how to create a python program that will show you how many faces are there in a frame or video using python dlib, OpenCV, and NumPy python.
 
